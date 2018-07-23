@@ -1,5 +1,5 @@
 #react+antd通用后台管理脚手架工具
-![示例]((http://github.com/zouruncheng/reactbackend/src/resource/antd-form.png)
+![示例](https://github.com/Zouruncheng/reactbackend/blob/master/src/resource/antd-form.png)
 
 ## 开始使用
   yarn install
