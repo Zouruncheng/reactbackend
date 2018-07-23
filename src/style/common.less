@@ -1,0 +1,26 @@
+@import "../style/default.less";
+@import "../style/loading.less";
+
+// @colorA:"red";
+
+// div{
+//     color:@colorA
+// }
+
+.container{
+    display: flex;
+    .nav-left{
+        height: calc(100vh);
+        background-color:#001529;
+        position:fixed;
+    }
+    .main{
+        margin-left:237px; 
+        height: calc(100vh);
+        background-color: @colorL;
+    }
+    .content{
+        position: relative;
+        padding: 20px;
+    }
+}
